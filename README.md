@@ -1,1 +1,1 @@
-# JavaScriptQuiz
+# DailyPlanner
